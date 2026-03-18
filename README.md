@@ -1,5 +1,3 @@
-# Telco-Customer-Churn-Analysis
-Telco Customer Churn Rate Analysis
 # Telco Customer Churn Analysis
 
 ## Overview
